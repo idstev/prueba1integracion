@@ -1,7 +1,7 @@
 
 const credentials = {
-    username: "usuario",
-    password: "contraseña"
+    username: "johaan",
+    password: "1234"
   };
   
   module.exports = credentials;
