@@ -30,6 +30,6 @@ def enviar_correo(destinatario, asunto, cuerpo):
 # Aplicación
 destinatario = "123test12345@yopmail.com"
 asunto = "Prueba de correo desde Python"
-cuerpo = "Hola, esto es un mensaje de prueba desde Python."
+cuerpo = "Hola, esto es un mensaje de prueba desde Python para la prueba."
 
 enviar_correo(destinatario, asunto, cuerpo)
